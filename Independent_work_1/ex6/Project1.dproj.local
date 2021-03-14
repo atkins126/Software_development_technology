@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.291,D:\lb\Unit1.pas=C:\Users\Михаил\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.291,D:\lb\Unit1.dfm=C:\Users\Михаил\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,=C:\Users\Михаил\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,D:\lb\Project1.dproj=C:\Users\Михаил\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021.03.12 13:56:25.502,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex1\Unit1.dfm=D:\lb\Unit1.dfm</Transaction>
+    <Transaction>2021.03.12 13:56:25.502,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex1\Unit1.pas=D:\lb\Unit1.pas</Transaction>
+    <Transaction>2021.03.12 13:56:40.140,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex1\Project1.dproj=D:\lb\Project1.dproj</Transaction>
+    <Transaction>2021.03.12 14:00:00.589,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex2\Unit1.pas=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex1\Unit1.pas</Transaction>
+    <Transaction>2021.03.12 14:00:00.589,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex2\Unit1.dfm=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex1\Unit1.dfm</Transaction>
+    <Transaction>2021.03.12 14:00:07.412,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex2\Project1.dproj=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex1\Project1.dproj</Transaction>
+    <Transaction>2021.03.12 14:02:52.466,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4\Unit1.pas=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex2\Unit1.pas</Transaction>
+    <Transaction>2021.03.12 14:02:52.466,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4\Unit1.dfm=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex2\Unit1.dfm</Transaction>
+    <Transaction>2021.03.12 14:03:01.570,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4\Project1.dproj=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex2\Project1.dproj</Transaction>
+    <Transaction>2021.03.12 14:05:14.142,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4_1\Project1.dproj=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4\Project1.dproj</Transaction>
+    <Transaction>2021.03.12 14:05:20.339,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4_1\Unit1.pas=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4\Unit1.pas</Transaction>
+    <Transaction>2021.03.12 14:05:20.339,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4_1\Unit1.dfm=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4\Unit1.dfm</Transaction>
+    <Transaction>2021.03.12 14:09:52.523,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex5\Unit1.dfm=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4_1\Unit1.dfm</Transaction>
+    <Transaction>2021.03.12 14:09:52.523,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex5\Unit1.pas=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4_1\Unit1.pas</Transaction>
+    <Transaction>2021.03.12 14:09:58.525,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex5\Project1.dproj=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex4_1\Project1.dproj</Transaction>
+    <Transaction>2021.03.12 14:18:46.419,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex6\Unit1.dfm=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex5\Unit1.dfm</Transaction>
+    <Transaction>2021.03.12 14:18:46.419,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex6\Unit1.pas=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex5\Unit1.pas</Transaction>
+    <Transaction>2021.03.12 14:18:52.071,C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex6\Project1.dproj=C:\Users\Михаил\OneDrive\Рабочий стол\Шарага\Технологии разработки ПО\Практика\ex5\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
